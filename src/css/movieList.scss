@@ -1,0 +1,10 @@
+.mList{
+    display: flex;
+    flex-wrap: wrap;
+    .mItem{
+        margin: 7px;
+        img{
+            height: 280px;
+        }
+    }
+}
